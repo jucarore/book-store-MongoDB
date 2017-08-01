@@ -1,1 +1,8 @@
-# Skeleton project for Swagger
+# BookStore project
+
+Technologies:
+    #_MongoDB
+    
+    
+    
+    
