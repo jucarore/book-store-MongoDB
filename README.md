@@ -28,7 +28,7 @@ Before to run the app you need:
  
  ## Live Example
  
- * [book-store-MongoDB](http://ec2-18-231-44-254.sa-east-1.compute.amazonaws.com:10010/) - The app example
+ * [book-store-MongoDB](http://ec2-18-231-44-254.sa-east-1.compute.amazonaws.com:10010/docs) - The app example
  
 
 
